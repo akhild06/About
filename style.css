@@ -76,7 +76,8 @@
     font-family: 'Times New Roman', Times, serif;   
 }  
 .text-center {
-    font-family: 'Times New Roman', Times, serif;  
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 1.5rem;
 }   
 .footer-reference a {
     text-decoration: none;
